@@ -1,4 +1,5 @@
-﻿using PS213020_Serve.DataAccess.Core.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using PS213020_Serve.DataAccess.Core.Models;
 using System;
 
 namespace PS213020_Serve.DataAccess.Core.Interfaces.DbContext
