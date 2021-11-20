@@ -9,7 +9,8 @@ namespace PS213020_Serve.DataAccess.DbContext
     {
         public RubicContext(DbContextOptions<RubicContext> options) 
             : base(options)
-            { }
+        { 
+        }
         public DbSet<UserRto> Users { get; set; }
         public DbSet<UserRoleRto> UserRoles { get; set; }
     }
