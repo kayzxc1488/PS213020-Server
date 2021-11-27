@@ -9,5 +9,6 @@ namespace PS213020_Server.BusinesLogic.Core.Interfaces
     public interface IUserService
     {
         void Auth();
+
     }
 }
