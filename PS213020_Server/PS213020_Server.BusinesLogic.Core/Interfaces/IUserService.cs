@@ -11,5 +11,8 @@ namespace PS213020_Server.BusinesLogic.Core.Interfaces
     {
         Task<UserInformationBLo> Auth(int PhoneNumberPrefix, int PhoneMumber, string Password);
         Task<UserInformationBLo> Regestration(int PhoneNumberPrefix, int PhoneMumber, string Password);
+        Task<UserInformationBLo> Get(int UserId);
+        Task<UserUpdateBlo> Update(int PhoneNumberPrefix, int PhoneMumber, string Password, UserUpdateBlo userUpdateBlo);
+        Task<bool> DoesExist(int PhoneNumberPrefix, int PhoneMumber);
     }
 }
