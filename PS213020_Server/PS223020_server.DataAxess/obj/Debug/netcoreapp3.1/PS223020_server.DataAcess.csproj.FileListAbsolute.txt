@@ -1,0 +1,5 @@
+C:\Users\StudentDev\Desktop\PS223020_server.DataAxess\bin\Debug\netcoreapp3.1\PS223020_server.DataAcess.deps.json
+C:\Users\StudentDev\Desktop\PS223020_server.DataAxess\bin\Debug\netcoreapp3.1\PS223020_server.DataAcess.dll
+C:\Users\StudentDev\Desktop\PS223020_server.DataAxess\obj\Debug\netcoreapp3.1\PS223020_server.DataAcess.csprojAssemblyReference.cache
+C:\Users\StudentDev\Desktop\PS223020_server.DataAxess\obj\Debug\netcoreapp3.1\PS223020_server.DataAcess.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Desktop\PS223020_server.DataAxess\obj\Debug\netcoreapp3.1\PS223020_server.DataAcess.AssemblyInfo.cs
